@@ -1,4 +1,4 @@
-# solidity-beginner-3 Notes
+# Solidity-Beginner-3 Notes
 
 ---
 ## View & Pure Function
