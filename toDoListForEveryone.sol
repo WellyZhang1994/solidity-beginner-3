@@ -54,7 +54,7 @@ contract ToDoListForUser {
         return _task[taskIndex];
     }
 
-    //only admin can delete the contract
+    //only admin can delete the contract 
     function kill() external adminOnly {
         selfdestruct(payable(admin));
     }
